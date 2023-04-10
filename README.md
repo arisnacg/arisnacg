@@ -25,7 +25,8 @@ I have great passion about computer sience and love to learn more about Programm
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f34d39?style=flat&logo=laravel&logoColor=white" /> 
   <img alt="Django" src="https://img.shields.io/badge/-Django-092d1f?style=flat&logo=django&logoColor=white" /> 
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-2975ce?style=flat&logo=react&logoColor=white" /> 
-  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-3fb27f?style=flat&logo=vuedotjs&logoColor=white" /> 
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-168955?style=flat&logo=vuedotjs&logoColor=white" /> 
+  <img alt="SocketIO" src="https://img.shields.io/badge/-SocketIO-2a403c?style=flat&logo=socketdotio&logoColor=white" /> 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-da0093?style=flat&logo=graphql&logoColor=white" /> 
   <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-234a57?style=flat&logo=trpc&logoColor=white" /> 
 </p>
@@ -43,7 +44,7 @@ I have great passion about computer sience and love to learn more about Programm
 ### DevOps & Cloud Technologies
 
 <p>
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-007ACC?style=flat&logo=neovim&logoColor=white" />
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-388b29?style=flat&logo=neovim&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
