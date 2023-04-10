@@ -15,6 +15,7 @@ I have great passion about computer sience and love to learn more about Programm
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-2a3337?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00a7d0?style=flat-square&logo=go&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5851ea?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-121268?style=flat-square&logo=lua&logoColor=white" />
 </p>
 
 ### Frameworks and Libraries
