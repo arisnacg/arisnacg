@@ -45,8 +45,6 @@ I have great passion about computer sience and love to learn more about Programm
 ### DevOps & Cloud Technologies
 
 <p>
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-388b29?style=flat-square&logo=neovim&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-325CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -60,8 +58,14 @@ I have great passion about computer sience and love to learn more about Programm
 ### Infrastructure & Network Technologies
 
 <p>
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-168eca?style=flat-square&logo=linux&logoColor=white" /> 
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-168eca?style=flat-square&logo=linux&logoColor=white" /> 
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Kong" src="https://img.shields.io/badge/-Kong-0cb095?style=flat-square&logo=kong&logoColor=white" />
   <img alt="Traefik" src="https://img.shields.io/badge/-Traefik-239cbb?style=flat-square&logo=traefikproxy&logoColor=white" />
+</p>
+
+### Developing Tools
+<p>
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-388b29?style=flat-square&logo=neovim&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
