@@ -2,7 +2,7 @@
 
 I’m a tech enthusiast from Bali 🌿🙏
 
-I have great passion about computer sience and love to learn more about Programming, DevOps, Networking, Cybersecurity, etc 🚀
+I have a great passion for computer science and love to learn more about Programming, DevOps, Networking, Cybersecurity, etc 🚀
 
 ## 🛠️ Technologies and Tools
 
