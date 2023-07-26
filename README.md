@@ -5,7 +5,7 @@ I’m a tech enthusiast from Bali 🌿🙏
 I have a great passion for computer science and love to learn more about Programming, DevOps, Networking, Cybersecurity, etc 🚀
 
 ## LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/arisnacg?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/arisnacg?theme=auto&font=baloo&extension=activity)
 
 ## 🛠️ Technologies and Tools
 
