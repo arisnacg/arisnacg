@@ -4,9 +4,6 @@ I’m a tech enthusiast from Bali 🌿🙏
 
 I have a great passion for computer science and love to learn more about Programming, DevOps, Networking, Cybersecurity, etc 🚀
 
-## LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/arisnacg?theme=auto&font=baloo&extension=activity)
-
 ## 🛠️ Technologies and Tools
 
 ### Programming Languages
@@ -72,3 +69,7 @@ I have a great passion for computer science and love to learn more about Program
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-388b29?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
+
+## LeetCode
+![LeetCode Stats](https://leetcode.card.workers.dev/arisnacg?theme=auto&font=baloo)
+
