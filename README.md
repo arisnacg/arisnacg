@@ -70,6 +70,3 @@ I have a great passion for computer science and love to learn more about Program
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/arisnacg?theme=auto&font=baloo)
-
